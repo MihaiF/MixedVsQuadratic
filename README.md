@@ -1,1 +1,1 @@
-"# MixedVsQuadratic" 
+# MixedVsQuadratic
