@@ -1,0 +1,11 @@
+Material: 		Linear elasticity
+Young's modulus:	66 kPa
+Poisson ration:		0.49 and more
+Gravity:		0
+Dimensions:		20x20x20 cm
+BCs:			5 cm compression on one face, opposite face is fixed
+Mesh (linear):		see box.* files
+Resolution:		4x4x4 division
+Nodes:			48
+Tets:			27
+Quasi-static:		yes (10 steps) (.5 cm increments)
